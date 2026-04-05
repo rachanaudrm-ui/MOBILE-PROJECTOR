@@ -1,0 +1,5 @@
+{
+  "name": "Mobile-to-Wall Projection System",
+  "description": "A real-time system that mirrors a smartphone screen and projects it directly onto a wall using mini-projector hardware.",
+  "requestFramePermissions": ["display-capture", "camera"]
+}
